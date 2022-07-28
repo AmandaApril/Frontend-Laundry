@@ -1,0 +1,61 @@
+/* img {
+    width: 700px !important;
+    height: 500px;
+    align-items: center !important;
+    left: auto;
+} */
+
+.iconmember {
+    width: 50px !important;
+    height: 50px;
+}
+
+.usericon {
+    width: 50px !important;
+    height: 50px;
+}
+
+.iconpaket {
+    width: 50px !important;
+    height: 50px;
+}
+
+.icontransaksi {
+    width: 50px !important;
+    height: 50px;
+}
+
+.iconlaundry {
+    width: 80px !important;
+    height: 80px;
+}
+
+
+/* l o g i n */
+
+.login_bg1 {
+    position: absolute;
+    width: 1360px;
+    height: 700px;
+    left: 0px;
+    top: 0px;
+}
+
+.bg_login {
+    position: absolute;
+    width: 580px;
+    height: 528px;
+    left: 0px;
+    top: 48px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.hallo {
+    height: 528px !important;
+    width: 1100px !important;
+    border-radius: 30px;
+    top: 0px;
+    justify-content: center !important;
+    background-color: white;
+}
